@@ -1,6 +1,9 @@
 Git is a version control system.
-Git is free software.
-hdahd
 dasdsa
 crate a new branch .
+<<<<<<< HEAD
 master
+=======
+simple
+
+x>>>>>>> featurel
